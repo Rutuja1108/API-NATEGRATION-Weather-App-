@@ -1,4 +1,4 @@
-🌦️ Live Weather Web App
+🌦️ *Live Weather Web App*
 
 *"Responsive Weather Forecast Web App using OpenWeatherMap API | Designed & Developed by [Rutuja Sanjay Bhutekar]"*  
 
