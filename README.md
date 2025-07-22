@@ -29,6 +29,12 @@ Built using *HTML, CSS, JavaScript* and *OpenWeatherMap API*.
 - OpenWeatherMap API
 
 ---
+Outputs📸
+
+
+
+
+
 
 👨‍💻 Developed by:  
 *[Rutuja Sanjay Bhutekar ]* – CODTECH Internship Project
